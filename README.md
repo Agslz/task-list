@@ -7,8 +7,8 @@
 
 ### A simple task list to organize your day. You can add, edit and delete tasks.
 
-![TaskList Screenshot](images/image1.png) 
- 
+![image](https://user-images.githubusercontent.com/83142033/210942745-5ea4a836-29a8-431c-af03-2432aacb88be.png)
+
 ## Getting Started
 
 1. Download the repository files from the download section or clone this project:
